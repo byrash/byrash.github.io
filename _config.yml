@@ -4,12 +4,12 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Shivaji Byrapaneni
-title: Senior Solution Designer / Architect
+title: Enterprise Architect
 email: shivaji.byrapaneni@gmail.com
 website: https://byrash.github.io/
 
 # Social links
-twitter_username: shivaji_io
+# twitter_username: shivaji_io
 github_username: byrash
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -24,9 +24,9 @@ linkedin_username: shivajib
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Shivaji and I'm a Senior Solution Designer/Architect. I'm experience Polyglot Full Stack Engineer in making software across many bussiness domains. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hello, my name is Shivaji and I'm a Enterprise Architect. I'm experience Polyglot Full Stack Engineer in making software across many bussiness domains. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>Senior Solution Designer / Architect</mark>  <mark>Java/J2EE</mark>  <mark>Golang</mark>  <mark>AWS</mark> and <mark>Most of the famous SPA Libs & frameworks</mark>
+  I am most skilled in: <mark>Enterprise Architect</mark>  
 
 # Projects Section
 # projects_title: Projects

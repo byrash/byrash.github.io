@@ -27,16 +27,14 @@ about_content: | # this will include new lines to allow paragraphs
   Results-driven enterprise architect with a proven track record of delivering high-impact technology solutions that align with business goals. Possesses exceptional technical and strategic planning skills, with an ability to manage complex projects, coordinate stakeholders, and deliver results on time and within budget. Excellent communicator and leader with a strong focus on customer satisfaction.
 
   
-  <mark>
-  Enterprise Architecture: Expert in developing enterprise-wide strategies, standards, and processes to align IT with business objectives.
-  Technical Knowledge: Proficient in a wide range of technical areas such as cloud computing, networking, database management, security, and software development.
-  Project Management: Skilled in leading complex projects, coordinating stakeholders, managing budgets, and delivering results on time and within budget.
-  Business Acumen: Strong understanding of business operations and financial management.
-  Communication: Excellent communicator with the ability to explain complex technical concepts to non-technical stakeholders, including senior management and executives.
-  Leadership: Effective leader with strong interpersonal skills, the ability to motivate and inspire teams, and a track record of success.
-  Problem-solving: Skilled in identifying problems, analyzing data, and developing innovative solutions that meet business requirements.
-  </mark>  
-
+  <mark>Enterprise Architecture:</mark> Expert in developing enterprise-wide strategies, standards, and processes to align IT with business objectives.
+  <mark>Technical Knowledge:</mark> Proficient in a wide range of technical areas such as cloud computing, networking, database management, security, and software development.
+  <mark>Project Management:</mark> Skilled in leading complex projects, coordinating stakeholders, managing budgets, and delivering results on time and within budget.
+  <mark>Business Acumen:</mark> Strong understanding of business operations and financial management.
+  <mark>Communication:</mark> Excellent communicator with the ability to explain complex technical concepts to non-technical stakeholders, including senior management and executives.
+  <mark>Leadership:</mark> Effective leader with strong interpersonal skills, the ability to motivate and inspire teams, and a track record of success.
+  <mark>Problem-solving:</mark> Skilled in identifying problems, analyzing data, and developing innovative solutions that meet business requirements.
+  
 # Projects Section
 # projects_title: Projects
 
